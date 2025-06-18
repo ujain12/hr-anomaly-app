@@ -4,3 +4,4 @@ scikit-learn
 joblib
 streamlit
 reportlab
+scikit-learn==1.5.1
